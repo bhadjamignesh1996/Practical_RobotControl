@@ -1,0 +1,14 @@
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\bin\Debug\net8.0\Practical_Mignesh.exe
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\bin\Debug\net8.0\Practical_Mignesh.deps.json
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\bin\Debug\net8.0\Practical_Mignesh.runtimeconfig.json
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\bin\Debug\net8.0\Practical_Mignesh.dll
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\bin\Debug\net8.0\Practical_Mignesh.pdb
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\obj\Debug\net8.0\Practical_Mignesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\obj\Debug\net8.0\Practical_Mignesh.AssemblyInfoInputs.cache
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\obj\Debug\net8.0\Practical_Mignesh.AssemblyInfo.cs
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\obj\Debug\net8.0\Practical_Mignesh.csproj.CoreCompileInputs.cache
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\obj\Debug\net8.0\Practical_Mignesh.dll
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\obj\Debug\net8.0\refint\Practical_Mignesh.dll
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\obj\Debug\net8.0\Practical_Mignesh.pdb
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\obj\Debug\net8.0\Practical_Mignesh.genruntimeconfig.cache
+C:\Users\Mignesh\Desktop\Practical\Practical_Mignesh\Practical_Mignesh\obj\Debug\net8.0\ref\Practical_Mignesh.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Practical_Mignesh/1.0.0": {
+        "runtime": {
+          "Practical_Mignesh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practical_Mignesh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
